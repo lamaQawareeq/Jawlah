@@ -1,0 +1,10 @@
+^C:\USERS\HP\DESKTOP\CODE2-FLUTTER1\CODE-FLUTTER\BUILD\WINDOWS\X64\CMAKEFILES\FA50EE44049E1F2EB7C537FBBC261BF7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/hp/Desktop/code2-flutter1/code-flutter/windows -BC:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/jawlah.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

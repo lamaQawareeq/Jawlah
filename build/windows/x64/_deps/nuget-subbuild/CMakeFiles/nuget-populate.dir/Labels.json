@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e98c0ddeeb1b63ae7a43ba1db076ace3/nuget-populate.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/1eae784a1a9e3f6c8988c6a03da13ccc/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/5576220edbf31c0b1da73911a543550a/nuget-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/5576220edbf31c0b1da73911a543550a/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/5576220edbf31c0b1da73911a543550a/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/5576220edbf31c0b1da73911a543550a/nuget-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/5576220edbf31c0b1da73911a543550a/nuget-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/5576220edbf31c0b1da73911a543550a/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/5576220edbf31c0b1da73911a543550a/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/5576220edbf31c0b1da73911a543550a/nuget-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/hp/Desktop/code2-flutter1/code-flutter/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/5576220edbf31c0b1da73911a543550a/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}
